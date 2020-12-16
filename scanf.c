@@ -5,6 +5,8 @@ int main()
 	int number2;
 	int number3;
 	
+	printf("This is the new file commit");
+
 	printf("Enter number 1\n");
 	scanf("%d",&number1);
 	
