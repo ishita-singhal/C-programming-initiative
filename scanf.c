@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+void main()
 {
 	int number1;
 	int number2;
@@ -15,5 +15,5 @@ int main()
 	number3=number1-number2;
 	printf("%d",number3);
 	
-	return 0;
+	
 }
