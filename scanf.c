@@ -1,3 +1,4 @@
+/* Changed int main to void main*/
 #include <stdio.h>
 void main()
 {
